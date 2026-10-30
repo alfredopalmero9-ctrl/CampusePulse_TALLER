@@ -17,7 +17,7 @@ CampusPulse/
 └── tests/test_analisis.py
 ```
 
-## Ejecutar (solo biblioteca estándar de Python)
+## Ejecutar (solo biblioteca estándar de Python).
 
 Desde la raíz del proyecto:
 
